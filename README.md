@@ -4,7 +4,7 @@ This repository contains a comprehensive collection of advanced C projects. The 
 
 ---
 
-## 🛠 Project Modules
+## Project Modules
 
 ### 1. Library Management System (Data Structures)
 * **Concepts:** Linked Lists, Generic Programming (`void*`), Function Pointers.
